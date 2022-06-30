@@ -1,0 +1,11 @@
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\bin\Debug\TicTacToe_203019.exe.config
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\bin\Debug\TicTacToe_203019.exe
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\bin\Debug\TicTacToe_203019.pdb
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\obj\Debug\TicTacToe_203019.csproj.AssemblyReference.cache
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\obj\Debug\TicTacToe_203019.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\obj\Debug\TicTacToe_203019.Form1.resources
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\obj\Debug\TicTacToe_203019.Properties.Resources.resources
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\obj\Debug\TicTacToe_203019.csproj.GenerateResource.cache
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\obj\Debug\TicTacToe_203019.csproj.CoreCompileInputs.cache
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\obj\Debug\TicTacToe_203019.exe
+C:\Users\Nace\source\repos\TicTacToe_203019\TicTacToe_203019\obj\Debug\TicTacToe_203019.pdb
